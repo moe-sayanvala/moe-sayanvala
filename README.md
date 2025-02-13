@@ -1,6 +1,6 @@
 # Moe Sayanvala  
 
-🌍 Johannesburg, South Africa | 🎓 2nd Year BSc Computer Science Student @ Regenesys School of Technology  
+📍🌍 Johannesburg, South Africa | 🎓 2nd Year BSc Computer Science Student @ Regenesys School of Technology  
 
 👨‍💻 Aspiring Software Developer | 💻 Python Enthusiast | 🚀 Passionate about Tech & Innovation  
 
@@ -9,5 +9,3 @@ I’m a tech enthusiast with a love for programming and a dream to become a deco
 🎮 When I’m not coding, you’ll find me gaming or building PCs—combining my love for tech and hands-on creativity.  
 
 🤝 I’m open to collaboration and always looking to connect with like-minded individuals. Feel free to reach out via [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-yaseen-sayanvala-332032348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:MuhammedYSayanvala@gmail.com).  
-
-Let’s build the future, one line of code at a time!  
