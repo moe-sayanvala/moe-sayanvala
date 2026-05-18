@@ -1,6 +1,6 @@
 # Moe Sayanvala  
 
-📍🌍 Johannesburg, South Africa | 🎓 2nd Year BSc Computer Science Student @ Regenesys School of Technology  
+📍🌍 Johannesburg, South Africa | 🎓 3rd Year BSc Computer Science Student @ Regenesys School of Technology  
 
 👨‍💻 Aspiring Software Developer | 💻 Python Enthusiast | 🚀 Passionate about Tech & Innovation  
 
